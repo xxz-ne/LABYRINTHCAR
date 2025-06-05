@@ -1,0 +1,12 @@
+labyrinthcar\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+labyrinthcar\list.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+labyrinthcar\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+labyrinthcar\list.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+labyrinthcar\list.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+labyrinthcar\list.o: ../Core/Inc/FreeRTOSConfig.h
+labyrinthcar\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+labyrinthcar\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+labyrinthcar\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+labyrinthcar\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+labyrinthcar\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+labyrinthcar\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

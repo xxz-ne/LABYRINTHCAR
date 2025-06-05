@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "limits": "c",
+        "type_traits": "c",
+        "control.h": "c",
+        "hc-sr04.h": "c"
+    }
+}
